@@ -175,9 +175,7 @@
         }
     },
     "file": [
-        "desktop.ini",
-        "directory.html",
-        "index.html"
+        "desktop.ini"
     ],
     "Linear-Algebra": {
         "Notes": {
@@ -214,14 +212,6 @@
             "Java_Exam_Questions_and_Answers.pdf",
             "Note - by Angie.pdf",
             "oral quetions with answer.docx"
-        ]
-    },
-    "src": {
-        "file": [
-            "directory_structure.json",
-            "index.py",
-            "script.js",
-            "styles.css"
         ]
     }
 }
