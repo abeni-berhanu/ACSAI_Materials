@@ -1,0 +1,213 @@
+{
+    "file": [
+        "02-28 - Algorithms.pdf",
+        "index.html"
+    ],
+    "Algorithms": {
+        "exam and exercises": {
+            "file": [
+                "ALGORITHMS 01-07-2022 EXAM.pdf",
+                "ALGORITHMS 03-06-2024 EXAM.pdf",
+                "ALGORITHMS 04-07-2023 EXAM.pdf",
+                "ALGORITHMS 06-06-2023 EXAM.pdf",
+                "ALGORITHMS 10-06-2022 EXAM.pdf",
+                "ALGORITHMS 1ST YEAR EXAMS.pdf",
+                "CHAPTER 04 EXERCISES.pdf",
+                "CHAPTER 05 EXERCISES.pdf"
+            ]
+        },
+        "Notes": {
+            "file": [
+                "L01 Introduction, algorithms techniques.pdf",
+                "L02 G-S part 1.pdf",
+                "L03 G-S part 2.pdf",
+                "L04 Big O, time complexity.pdf",
+                "L05 Time complexity of the G-S algorithm.pdf",
+                "L06 Greedy algorithms.pdf",
+                "L07 Time complexity, interval partitioning.pdf",
+                "L08 Interval partitioning proof, graphs.pdf",
+                "L09 Shortest path.pdf",
+                "L10 Priority queues.pdf",
+                "L11 Heapify down.pdf",
+                "L12 Heaps for Dijkstra's algorithm.pdf",
+                "L13 Minimum spanning tree.pdf",
+                "L14 Mst analysis, mergesort.pdf",
+                "L15 Recurrences.pdf",
+                "L16 Recurrences part 2, exam test reveal.pdf",
+                "L17 Dynamic programming part 1.pdf",
+                "L18 Dynamic programming part 2.pdf",
+                "L19 Segmentation .pdf",
+                "L20 Knapsack, Bellman-Ford.pdf",
+                "L21 NP-hard, reductions, ind set, vertex cover.pdf",
+                "L24 Approximations.pdf"
+            ]
+        },
+        "other": {
+            "file": [
+                "ALGORITHMS DESIGN SOLUTIONS.pdf",
+                "ALGORITHMS ILLUMINATED PART 1.pdf",
+                "ALGORITHMS ILLUMINATED PART 2.pdf",
+                "ALGORITMO G-S.pdf",
+                "BELLMAN-FORD EXECUTION.pdf",
+                "DIVIDE ET IMPERA, RECURRENCES.pdf",
+                "GUIDE TO DIVIDE AND CONQUER.pdf",
+                "GUIDE TO DYNAMIC PROGRAMMING.pdf",
+                "GUIDE TO GREEDY ALGORITHMS.pdf",
+                "LA COMPLESSIT\u00c0 DEGLI ALGORITMI.pdf",
+                "RECURRENCE RELATIONS.pdf",
+                "RICORRENZE.pdf",
+                "Text Book - ALGORITHMS DESIGN.pdf",
+                "Text Book - INTRODUCTION TO ALGORITHMS.pdf"
+            ]
+        },
+        "Teacher's notes": {
+            "file": [
+                "02-28 - Algorithms.pdf",
+                "03-01 - Stable Matchings.pdf",
+                "03-06 - Gale-Shapley Algorithm.pdf",
+                "03-08 - Runtime Bounds.pdf",
+                "03-13 - Interval Scheduling.pdf",
+                "03-15 - Interval Partitioning.pdf",
+                "03-20 - Graphs.pdf",
+                "03-22 - Dijkstra's Algorithm.pdf",
+                "03-27 - Heaps.pdf",
+                "04-03 - Priority Queues.pdf",
+                "04-05 - Data Compression.pdf",
+                "04-09 - Huffman Coding (1).pdf",
+                "04-10 - Huffman Coding (2).pdf",
+                "04-11 - Minimum Spanning Tree.pdf",
+                "04-12 - mock-exam.pdf",
+                "04-17 - Weighted Interval Scheduling.pdf",
+                "04-19 - Segmentation.pdf",
+                "04-24 - Subset-Sum.pdf",
+                "04-26 - Bellman-Ford.pdf",
+                "05-03 - MergeSort.pdf",
+                "05-17 - Integer Multiplication.pdf",
+                "05-22 - NP-completeness.pdf",
+                "05-24 - Vertex Cover.pdf",
+                "05-29 - Experts.pdf"
+            ]
+        }
+    },
+    "CA 2": {
+        "Exams": {
+            "file": [
+                "CA U2 theoretical final exam 05-07-2021.pdf",
+                "CA U2 theoretical final exam 06-06-2022.pdf.pdf",
+                "CA U2 theoretical final exam 12-06-2023.pdf",
+                "CA U2 theoretical final exam 22-07-2021.pdf",
+                "CA U2 theoretical final exam of July 2023.pdf"
+            ]
+        },
+        "Exercises - NOTION": {
+            "file": [
+                "01 SMALLEST OF 2 INTEGERS IN DATA SEGMENT.asm",
+                "02 SMALLEST INTEGER IN THE LIST.asm",
+                "03 FACTORIAL RECURSIVELY.asm",
+                "04 TROVATO O NON.asm",
+                "05 NUMBER OF ZEROS IN THE ARRAY.asm",
+                "08 STRICTLY MINOR ARRAY.asm",
+                "09 LL LENGTH.asm",
+                "10 LL LENGTH RECURSIVELY.asm",
+                "11 ARRAYS SUM X+Y IN Z .asm",
+                "12 HOMEWORK.asm",
+                "13 LL CONCATENATION.asm",
+                "14 MIDTERM.asm",
+                "15 ARRAY SUM.asm",
+                "16 FUNCTION WITH LINKED LISTS.asm",
+                "17 PARI E DISPARI.asm",
+                "18 SHUFFLING A LIST.asm",
+                "25-02-22 Exercises [ assembly instructions ].pdf"
+            ]
+        },
+        "Notes - NOTION": {
+            "file": [
+                "COMPUTER ARCHITECTURE U2.pdf",
+                "L01 CPU, RAM [ Roxy ].pdf",
+                "L02 Assembly instructions [ Elvis ].pdf",
+                "L02 Assembly instructions [ Roxy ].pdf",
+                "L03 New assembly instructions, loops [ Elvis ].pdf",
+                "L03 New assembly instructions, loops [ Roxy ].pdf",
+                "L04 New assembly instructions, loops, functions [ Elvis ].pdf",
+                "L04 New assembly instructions, loops, functions [ Roxy ].pdf",
+                "L05 Computer architecture [ Elvis ].pdf",
+                "L05 Computer architecture [ Roxy ].pdf",
+                "L06 Exercises for midterm [ Roxy ].pdf",
+                "L07 Computer architecture part 2 [ Elvis ].pdf",
+                "L07 Computer architecture part 2 [ Roxy ].pdf",
+                "L09 Exercises for midterm part 2 [ Elvis ].pdf",
+                "L09 Exercises for midterm part 2 [ Roxy ].pdf",
+                "L10 Binary trees [ Roxy ].pdf",
+                "L11 Parallelism, pipelining [ Roxy ].pdf",
+                "L12 Parallelism, pipelining part 2.pdf",
+                "L13 Branch prediction, multiple issue [ Roxy ].pdf",
+                "L14 Cache.pdf",
+                "L15 Cache part 2.pdf",
+                "L17 Virtual memory.pdf"
+            ]
+        },
+        "Others": {
+            "file": [
+                "Adelaide University and Ashenden Designs.pdf",
+                "ASSEMBLY LANGUAGE GUIDE.pdf",
+                "BRANCH PREDICTION UNIT.it.en.pdf",
+                "Cache exercises.pdf",
+                "Computer architecture exercises.pdf",
+                "Homework_1.asm",
+                "PIPELINE BASE.it.en.pdf",
+                "Risc-v ppt 1 - external.pdf",
+                "Risc-v ppt 2 - external.pdf",
+                "Risc-v ppt 3 - external.pdf",
+                "RISC-V Reference.pdf",
+                "riscv-spec-v2.2.pdf",
+                "text - Computer Organization and Design RISC-V Edition.pdf"
+            ]
+        }
+    },
+    "Calculus 1 U2": {
+        "file": [
+            "ANSINI_LecturesNotes.pdf",
+            "Calculus 1 U2 (Nadia Ansini) oral exam questions.pdf"
+        ],
+        "Exams": {
+            "file": [
+                "CALC 1 U2 EXTRA EXAM 04-24.pdf",
+                "CALC 1 U2 FINAL EXAM 09-02-24.pdf",
+                "CALC 1 U2 FINAL EXAM 13-06-23.pdf",
+                "CALC 1 U2 MID-TERM 20-04-23.pdf"
+            ]
+        }
+    },
+    "Physics": {
+        "Exams": {
+            "file": [
+                "PHYSICS 04-24 EXAM.pdf",
+                "PHYSICS 05-02-24 EXAM.pdf",
+                "PHYSICS 28-06-23 EXAM.pdf",
+                "Physics exam example (Leticia).pdf",
+                "PHYSICS JANUARY 2024 EXAM.pdf",
+                "PHYSICS JULY 2023 EXAM.pdf"
+            ]
+        },
+        "file": [
+            "PHYSICS formulas.pdf"
+        ]
+    },
+    "Programming 2": {
+        "file": [
+            "Java Exam Questions and Answers.pdf",
+            "Java_Exam_Questions_and_Answers.pdf",
+            "Note - by Angie.pdf",
+            "oral quetions with answer.docx"
+        ]
+    },
+    "src": {
+        "file": [
+            "directory.html",
+            "directory_structure.json",
+            "index.py",
+            "script.js",
+            "styles.css"
+        ]
+    }
+}
