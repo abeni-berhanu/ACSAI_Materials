@@ -1,8 +1,4 @@
 {
-    "file": [
-        "02-28 - Algorithms.pdf",
-        "index.html"
-    ],
     "Algorithms": {
         "exam and exercises": {
             "file": [
@@ -89,7 +85,21 @@
             ]
         }
     },
-    "CA 2": {
+    "Calculus-1-U2": {
+        "file": [
+            "ANSINI_LecturesNotes.pdf",
+            "Calculus 1 U2 (Nadia Ansini) oral exam questions.pdf"
+        ],
+        "Exams": {
+            "file": [
+                "CALC 1 U2 EXTRA EXAM 04-24.pdf",
+                "CALC 1 U2 FINAL EXAM 09-02-24.pdf",
+                "CALC 1 U2 FINAL EXAM 13-06-23.pdf",
+                "CALC 1 U2 MID-TERM 20-04-23.pdf"
+            ]
+        }
+    },
+    "Computer-Architecture-2": {
         "Exams": {
             "file": [
                 "CA U2 theoretical final exam 05-07-2021.pdf",
@@ -164,17 +174,15 @@
             ]
         }
     },
-    "Calculus 1 U2": {
-        "file": [
-            "ANSINI_LecturesNotes.pdf",
-            "Calculus 1 U2 (Nadia Ansini) oral exam questions.pdf"
-        ],
-        "Exams": {
+    "file": [
+        "desktop.ini",
+        "directory.html",
+        "index.html"
+    ],
+    "Linear-Algebra": {
+        "Notes": {
             "file": [
-                "CALC 1 U2 EXTRA EXAM 04-24.pdf",
-                "CALC 1 U2 FINAL EXAM 09-02-24.pdf",
-                "CALC 1 U2 FINAL EXAM 13-06-23.pdf",
-                "CALC 1 U2 MID-TERM 20-04-23.pdf"
+                "full-note_handwritten_my-note.pdf"
             ]
         }
     },
@@ -193,7 +201,14 @@
             "PHYSICS formulas.pdf"
         ]
     },
-    "Programming 2": {
+    "Programming-1": {
+        "Notes": {
+            "file": [
+                "note_notion_my-note.pdf"
+            ]
+        }
+    },
+    "Programming-2": {
         "file": [
             "Java Exam Questions and Answers.pdf",
             "Java_Exam_Questions_and_Answers.pdf",
@@ -203,7 +218,6 @@
     },
     "src": {
         "file": [
-            "directory.html",
             "directory_structure.json",
             "index.py",
             "script.js",
