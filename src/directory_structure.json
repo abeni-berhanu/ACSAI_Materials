@@ -85,6 +85,11 @@
             ]
         }
     },
+    "Calculus 2": {
+        "file": [
+            "text_Early Transcendentals, james stewart - partial derivation.pdf"
+        ]
+    },
     "Calculus-1-U2": {
         "file": [
             "ANSINI_LecturesNotes.pdf",
@@ -171,6 +176,15 @@
                 "RISC-V Reference.pdf",
                 "riscv-spec-v2.2.pdf",
                 "text - Computer Organization and Design RISC-V Edition.pdf"
+            ]
+        }
+    },
+    "Data Management": {
+        "Slides": {
+            "file": [
+                "00 - introduction_DataManagement-24-25.pdf",
+                "01 - DBMS.pdf",
+                "02 - Relational Model.pdf"
             ]
         }
     },
