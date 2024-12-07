@@ -87,22 +87,31 @@
     },
     "Calculus 2": {
         "file": [
+            "flash-card.apkg",
+            "Note by Francesca - full.pdf",
+            "NOTES by Chiara - full.pdf",
             "text_Early Transcendentals, james stewart - partial derivation.pdf"
         ]
     },
-    "Calculus-1-U2": {
+    "Calculus_1-U2": {
         "file": [
             "ANSINI_LecturesNotes.pdf",
-            "Calculus 1 U2 (Nadia Ansini) oral exam questions.pdf"
+            "Note by Francesca.pdf",
+            "oral exam questions.pdf"
         ],
         "Exams": {
             "file": [
-                "CALC 1 U2 EXTRA EXAM 04-24.pdf",
-                "CALC 1 U2 FINAL EXAM 09-02-24.pdf",
-                "CALC 1 U2 FINAL EXAM 13-06-23.pdf",
-                "CALC 1 U2 MID-TERM 20-04-23.pdf"
+                "EXTRA EXAM 04-24.pdf",
+                "FINAL EXAM 09-02-24.pdf",
+                "FINAL EXAM 13-06-23.pdf",
+                "MID-TERM 20-04-23.pdf"
             ]
         }
+    },
+    "Calculus_1_u1": {
+        "file": [
+            "Syllabus.pdf"
+        ]
     },
     "Computer-Architecture-2": {
         "Exams": {
@@ -191,7 +200,7 @@
     "Linear-Algebra": {
         "Notes": {
             "file": [
-                "full-note_handwritten_my-note.pdf"
+                "my-note-full.pdf"
             ]
         }
     },
@@ -223,6 +232,11 @@
             "Java_Exam_Questions_and_Answers.pdf",
             "Note - by Angie.pdf",
             "oral quetions with answer.docx"
+        ]
+    },
+    "Systems-and-Networking-I": {
+        "file": [
+            "DB_student-note.pdf"
         ]
     }
 }
