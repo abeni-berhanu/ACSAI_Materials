@@ -85,12 +85,15 @@
             ]
         }
     },
-    "Calculus 2": {
+    "Calculus": {
         "file": [
-            "flash-card.apkg",
-            "Note by Francesca - full.pdf",
-            "NOTES by Chiara - full.pdf",
-            "text_Early Transcendentals, james stewart - partial derivation.pdf"
+            "analysis 2.pdf",
+            "Calculus-17Jan2024.pdf",
+            "Calculus\u2013Real Analysis.pdf",
+            "exam.pdf",
+            "harris_solutions_odd.pdf",
+            "Real Analysis -- Jay Cummings -- The Long-Form Math Textbook Series, 2nd, 2018 -- Createspace Independent Publishing Platform -- 9781724510129 -- de85d366df591a6a07f02ac40c74e50a -- Anna\u2019s Archive.pdf",
+            "solutions-2.pdf"
         ]
     },
     "Calculus_1-U2": {
@@ -113,7 +116,42 @@
             "Syllabus.pdf"
         ]
     },
-    "Computer-Architecture-2": {
+    "Calculus_2": {
+        "file": [
+            "flash-card.apkg",
+            "Note by Francesca - full.pdf",
+            "NOTES by Chiara - full.pdf",
+            "text_Early Transcendentals, james stewart - partial derivation.pdf"
+        ]
+    },
+    "Computer Architecture 1": {
+        "Exams": {
+            "file": [
+                "2023 feb A.pdf",
+                "2023 feb b.pdf",
+                "2023 jan A.pdf",
+                "2023 jan B.pdf",
+                "2023 july.pdf",
+                "2023 jun.pdf",
+                "2023 September.pdf",
+                "2024 feb.pdf",
+                "2024 jan A.pdf",
+                "2024 jan B.pdf",
+                "2024 june.pdf"
+            ]
+        },
+        "file": [
+            "L01.pdf",
+            "L02.pdf",
+            "L03.pdf",
+            "L04 - Logic Gates.pdf",
+            "L05 - Logic Circuits.pdf",
+            "L06 - Canonical Forms.pdf",
+            "L07 - Boolean Algebra.pdf",
+            "Notes - leonardo.pdf"
+        ]
+    },
+    "Computer-Architecture_2": {
         "Exams": {
             "file": [
                 "CA U2 theoretical final exam 05-07-2021.pdf",
@@ -188,14 +226,22 @@
             ]
         }
     },
-    "Data Management": {
-        "Slides": {
-            "file": [
-                "00 - introduction_DataManagement-24-25.pdf",
-                "01 - DBMS.pdf",
-                "02 - Relational Model.pdf"
-            ]
-        }
+    "Data-Management-and-analysis_1": {
+        "file": [
+            "Note by Francesca.pdf",
+            "Oral Proofs and definitions by Francesca.pdf",
+            "Physical organization cheatsheet - leyla.pdf"
+        ]
+    },
+    "Linear Algebra": {
+        "file": [
+            "ALL the LA exam questions + short solutions.pdf",
+            "ALL the LA exam questions + solutions.pdf",
+            "Elementary Linear Algebra, 6th edition.pdf",
+            "Linear algebra theory for exam.pdf",
+            "LINEAR ALGEBRA Y1.pdf",
+            "Linear_algebra_theory_for_exam.pdf"
+        ]
     },
     "Linear-Algebra": {
         "Notes": {
@@ -205,6 +251,15 @@
         }
     },
     "Physics": {
+        "file": [
+            "DMAU1 Notes - Francesca.pdf",
+            "DMAU1 Proofs - Francesca.pdf",
+            "lecture 1.pdf",
+            "Note by Devide.pdf",
+            "Note by Francesca.pdf",
+            "Physics Book.pdf",
+            "PHYSICS formulas.pdf"
+        ],
         "Exams": {
             "file": [
                 "PHYSICS 04-24 EXAM.pdf",
@@ -214,29 +269,46 @@
                 "PHYSICS JANUARY 2024 EXAM.pdf",
                 "PHYSICS JULY 2023 EXAM.pdf"
             ]
-        },
+        }
+    },
+    "Probability": {
         "file": [
-            "PHYSICS formulas.pdf"
+            "Cheatsheet by Chiara.pdf",
+            "Note by Francesca.pdf"
         ]
     },
-    "Programming-1": {
+    "Programming_1": {
         "Notes": {
             "file": [
                 "note_notion_my-note.pdf"
             ]
         }
     },
-    "Programming-2": {
+    "Programming_2": {
         "file": [
             "Java Exam Questions and Answers.pdf",
             "Java_Exam_Questions_and_Answers.pdf",
+            "Java_qustions .pdf",
             "Note - by Angie.pdf",
-            "oral quetions with answer.docx"
+            "oral quetions with answer.docx",
+            "riscv-card-simple.pdf"
         ]
     },
-    "Systems-and-Networking-I": {
+    "Systems and Networking 1": {
         "file": [
             "DB_student-note.pdf"
+        ]
+    },
+    "Systems and Networking 2": {
+        "Exams": {
+            "file": [
+                "Networking February 2024 exam.pdf",
+                "Networking January 2023 exam.pdf",
+                "Networking Prof. Bartolini - July 2024 exam.pdf"
+            ]
+        },
+        "file": [
+            "Student Notes.pdf"
         ]
     }
 }
